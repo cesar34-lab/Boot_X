@@ -1,0 +1,20 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+venv/
+.env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Ejecutables y compilados
+*.exe
+*.msi
+
+# Inno Setup
+Output/
